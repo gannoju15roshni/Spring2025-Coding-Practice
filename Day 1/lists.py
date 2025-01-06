@@ -3,8 +3,12 @@ list2=['jasmine',5,'sun flower',12]
 list1.append(99)
 list2.insert(3,19)
 list1.extend(list2)
-list1.remove(19)
+list1.insert(4,2025)
 print(list1)
+list1.remove(19)
+list1.pop(4)
+for i in range(len(list1)):
+    print(list1[i])
 if '19' not in list1:
     print(f"'No' 19 is not in list1")
 print(list1)
