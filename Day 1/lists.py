@@ -1,5 +1,5 @@
 list1=['rose',15,'tulip',7]
-list2=['jasmine',5,'sun flower',12]
+list2=['jasmine',5,'sun flower',12,2025]
 # list1.append(99)
 # list2.insert(3,19)
 list1.extend(list2)
@@ -20,3 +20,5 @@ print(list1)
 # print(type(list1))
 # listdemo=list(('naruto','family guy',2025))
 # print(listdemo)
+list1copy=list(list1)
+print(list1copy)
