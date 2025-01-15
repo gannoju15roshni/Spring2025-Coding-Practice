@@ -41,3 +41,4 @@ print(dict1)
 # copy the exsisting dictionary assigning the -> [dictionaryname.copy()] to a variable and printing it
 # you can also copy using dict() method -> [dict(dictionaryname)]
 
+#blank comment
