@@ -42,3 +42,5 @@ print(dict1)
 # you can also copy using dict() method -> [dict(dictionaryname)]
 
 #blank comment
+
+#blank comment
