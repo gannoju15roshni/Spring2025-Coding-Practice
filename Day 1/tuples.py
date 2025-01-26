@@ -12,3 +12,5 @@ print(tuple1)
 
 tuple3=tuple1+tuple2
 print(tuple3)
+
+#Note: Tuples are immutable
